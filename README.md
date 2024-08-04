@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm soningfold! An aspiring data engineer. Here you can find my projects! I’m currently working on stock market data analysis using Kafka!
 
 <!--
 **soningfold/soningfold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
