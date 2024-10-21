@@ -1,4 +1,4 @@
-### Hi, I'm soningfold! An aspiring developer. Here you can find my projects! I’m currently working on thoughtly!
+### Hi, I'm soningfold! An aspiring developer. Here you can find my projects! I’m currently working on thoughts AI!
 <!--
 **soningfold/soningfold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
